@@ -16,7 +16,7 @@ int main()
 	*/
 
 	//Create video mode obeject if lower res
-	VideoMode vm(1980, 1080);
+	VideoMode vm(1366, 768);
 
 	//Create and open a window for the game
 	RenderWindow window(vm, "Timber!!!");
